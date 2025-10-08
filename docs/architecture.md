@@ -1,0 +1,15 @@
+# OrionHub Payment Gateway Architecture
+
+The legacy payment gateway sits between OrionHub and the external
+payment provider.
+
+OrionHub
+    |
+    v
+Payment Gateway
+    |
+    v
+OrionPay
+    |
+    v
+Transaction Provider
