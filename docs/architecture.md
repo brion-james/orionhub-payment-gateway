@@ -14,3 +14,4 @@ OrionPay
     v
 Transaction Provider
 - Documentation revision 2
+- Documentation revision 8
