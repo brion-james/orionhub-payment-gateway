@@ -10,3 +10,4 @@ assert.strictEqual(validateAmount(-1), false);
 // Test revision 9
 // Test revision 15
 // Test revision 21
+// Test revision 27
