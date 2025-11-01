@@ -18,3 +18,4 @@ Transaction Provider
 - Documentation revision 14
 - Documentation revision 20
 - Documentation revision 26
+- Documentation revision 32
