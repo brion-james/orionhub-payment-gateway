@@ -19,3 +19,4 @@ assert.strictEqual(validateAmount(-1), false);
 // Test revision 63
 // Test revision 69
 // Test revision 75
+// Test revision 81
