@@ -44,3 +44,4 @@ Transaction Provider
 - Documentation revision 170
 - Documentation revision 176
 - Documentation revision 182
+- Documentation revision 188
